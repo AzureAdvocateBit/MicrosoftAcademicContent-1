@@ -26,7 +26,7 @@ We love contributions! Please read the [contribution guide](./CONTRIBUTING.md) b
 
 * 🇬🇧🕸📱🤖 [Cloud-Powered Mobile App Development Syllabus](https://github.com/toolboc/Cloud-Powered-Mobile-App-Development-Curriculum) - A five day hands-on course for teaching cloud development concepts in college institutions
 
-* 🇬🇧🤖 [Introduction to Azure IoT Hub](https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/?WT.mc_id=educationcontent-general-jabenn) - a hands-on learning course created in conjunction with Oxford University.
+* 🇬🇧🤖 [Introduction to Azure IoT Hub](https://docs.microsoft.com/learn/modules/introduction-to-iot-hub/?WT.mc_id=academic-0000-jabenn) - a hands-on learning course created in conjunction with Oxford University.
 
 * 🇬🇧🧠 [Deep Learning for Time Series Forecasting](https://github.com/Azure/DeepLearningForTimeSeriesForecasting) - A tutorial demonstrating how to implement deep learning models for time series forecasting.
 
@@ -36,13 +36,13 @@ We love contributions! Please read the [contribution guide](./CONTRIBUTING.md) b
 
 * 🇬🇧🥽 [Mixed Reality Curriculum](https://github.com/Yonet/AzureMixedRealityDocs) - Open Sourced Mixed Reality Course Curriculum
 
-* 🇬🇧🖥 [C# 101](https://channel9.msdn.com/Series/CSharp-101/?WT.mc_id=educationcontent-general-jabenn) - video series introducing programming using C#
+* 🇬🇧🖥 [C# 101](https://channel9.msdn.com/Series/CSharp-101/?WT.mc_id=academic-0000-jabenn) - video series introducing programming using C#
 
 * 🇷🇺🖥 [C# 101 (Russian)](https://www.youtube.com/playlist?list=PL6XUtJhtlpPM3mTfgYBY5Zql4b4szL4KP) - video series introducing programming using C# in Russian
 
-* 🇷🇺🖥 [F# 101 (Russian)](https://channel9.msdn.com/Series/Exciting-introduction-to-functional-programming-in-F-rus) - video series introducing programming using F# in Russian
+* 🇷🇺🖥 [F# 101 (Russian)](https://channel9.msdn.com/Series/Exciting-introduction-to-functional-programming-in-F-rus?WT.mc_id=academic-0000-jabenn) - video series introducing programming using F# in Russian
 
-* 🇬🇧🖥 [Python for beginners](https://channel9.msdn.com/Series/Intro-to-Python-Development) - video series introducing programming using Python
+* 🇬🇧🖥 [Python for beginners](https://channel9.msdn.com/Series/Intro-to-Python-Development?WT.mc_id=academic-0000-jabenn) - video series introducing programming using Python
 
 * 🇷🇺🧠 [Introduction to AI and Machine Learning for Kids (Russian)](https://www.youtube.com/playlist?list=PL6XUtJhtlpPOJu1OTwZ4I7xmnoyqQ_BFR) – Introduction to AI and Machine Learning for Kids in Russian
 
@@ -102,14 +102,14 @@ We love contributions! Please read the [contribution guide](./CONTRIBUTING.md) b
 
 ## K-12 content
 
-* 🇬🇧 [Hacking STEM](https://www.microsoft.com/en-us/education/education-workshop/activity-library.aspx?WT.mc_id=educationcontent-general-jabenn) - downloadable, hands-on, teacher-tested projects and activities that use everyday materials to make STEM affordable, accessible, and fun for everyone.
+* 🇬🇧 [Hacking STEM](https://www.microsoft.com/education/education-workshop/activity-library.aspx?WT.mc_id=academic-0000-jabenn) - downloadable, hands-on, teacher-tested projects and activities that use everyday materials to make STEM affordable, accessible, and fun for everyone.
 
 * 🇬🇧 [Minecraft classroom resource](https://education.minecraft.net/class-resources/lessons/) - resources and lesson plans using Minecraft education edition
 
 * 🇬🇧 [micro:bit and MakeCode](https://makecode.microbit.org/lessons/) - introduction to computer science lessons using a BBC micro:bit and MakeCode
 
-* 🇬🇧 [Microsoft Educator Center](https://education.microsoft.com/en-us) - A personalized hub for educators
+* 🇬🇧 [Microsoft Educator Center](https://education.microsoft.com/?WT.mc_id=academic-0000-jabenn) - A personalized hub for educators
 
-* 🇬🇧 [Microsoft Imagine Academy](https://www.microsoft.com/en-us/education/imagine-academy/default.aspx) - Microsoft Imagine Academy gives students and educators the curricula and certifications they need to succeed in a tech-driven economy
+* 🇬🇧 [Microsoft Imagine Academy](https://www.microsoft.com/education/imagine-academy/default.aspx?WT.mc_id=academic-0000-jabenn) - Microsoft Imagine Academy gives students and educators the curricula and certifications they need to succeed in a tech-driven economy
 
 * 🇬🇧 [Circuit Playground Express and MakeCode](https://learn.adafruit.com/makecode) - resources to use MakeCode with the Adafruit circuit playground express
